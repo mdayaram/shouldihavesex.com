@@ -27,5 +27,6 @@ if (elem != null) {
 	elem.innerHTML = response;
 } else {
 	console.log("Did not find response element.");
+	document.write("Yes.");
 }
 
