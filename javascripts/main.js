@@ -18,7 +18,7 @@ var phrases = [
 "Have your sex. There are celibate kids in Africa.",
 "Zeno's paradox proves that a penis cannot enter a vagina.",
 "Yes. Sex is the most full and pure expression of self actualizing humanity possible on this tiny orb hurling through an empty, meaningless cosmos.",
-"'should' or 'ought' I have sex is, of course, a moral question, best examined through Kant's dentological ethics. Formulated as universal law - everyone must have sex - we can clearly see a problem. Some people, such as those without genitals, cannot have sex. Therefore, you must not have sex."
+"'should' or 'ought' I have sex is, of course, a moral question, best examined through Kant's deontological ethics. Formulated as universal law - everyone must have sex - we can clearly see a problem. Some people, such as those without genitals, cannot have sex. Therefore, you must not have sex."
 ];
 
 var response = phrases[Math.floor(Math.random() * phrases.length)];
