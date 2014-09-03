@@ -7,7 +7,7 @@ var phrases = [
 "Yeah girl. Tap that shit.",
 "No. Leave it to the professionals.",
 "Yeah baby. Call me. 867-5309",
-"No. Sex makes Jesus/Mohammed/Budda/Vishnu/etc cry. <picture of crying deity>",
+"No. Sex makes Jesus/Mohammed/Buddha/Vishnu/etc cry. <picture of crying deity>",
 "No. Humans are a cancer on this beautiful earth. Stop the spread.",
 "lolololololololol. Oh, you were serious? LOLOLOLOLOLOLOL",
 "Oh yes. Please. Mmmmmm.",
