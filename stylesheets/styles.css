@@ -1,6 +1,7 @@
 body {
-	font-family: Georgia;
+	font-family: Georgia, serif;
 	text-align: center;
+	padding: 10%;
 }
 
 table, tr, td {
