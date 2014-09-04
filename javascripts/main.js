@@ -37,6 +37,7 @@ var phrases = [
 "Sex<sup>tm</sup> is a registered trademark of HBO. Engaging in Sex<sup>tm</sup> without prior written consent of HBO or it's subsidiaries is a violation of the Telecommunications Act of 1996 and carries with it penalties of up to $10,000 fine and 1 year jail time.",
 "Yes. In the immortal words of Sigmund Freud, 'sometimes a penis is just a penis'.",
 "Urban dictionary defines sex as 'What kind of moron are you that you look up sex in the urban dictionary?' Oh... that's not what... I swear I was going somewhere with this...",
+"Sex vad?"
 ];
 
 var response = phrases[Math.floor(Math.random() * phrases.length)];
