@@ -1,7 +1,6 @@
 var phrases = [
 "No. Your genes are inferior.",
 "No. Donate to shouldihavesex.com instead.",
-"Yes. Lie back and think of England.",
 "10/10 fertility gods agree that you should have sex.",
 "No. Sex is weird and gross.",
 "Yeah girl. Tap that shit.",
@@ -22,7 +21,6 @@ var phrases = [
 "Yes. Children are the perfect distraction from your crippling inadequacy.",
 "Yes. Most nations provide $500-1000 per month in bad-life-decision payments per child.",
 "S-E-X. What's that? Let me see... oh. You filthy pervert! Out! GET OUT!",
-"Yes. After all, they're not going to love you for your personality.",
 "Confucius says 'sex is like wisdom - all for Confucius, none for you.'",
 "404. Sex not found.",
 "403. Sex forbidden.",
@@ -36,8 +34,7 @@ var phrases = [
 "No. I'm too tired.",
 "Sex<sup>tm</sup> is a registered trademark of HBO. Engaging in Sex<sup>tm</sup> without prior written consent of HBO or its subsidiaries is a violation of the Telecommunications Act of 1996 and carries with it penalties of up to $10,000 fine and 1 year jail time.",
 "Yes. In the immortal words of Sigmund Freud, 'sometimes a penis is just a penis'.",
-"Urban dictionary defines sex as 'What kind of moron are you that you look up sex in the urban dictionary?' Oh... that's not what... I swear I was going somewhere with this...",
-"Sex vad?"
+"Urban dictionary defines sex as 'What kind of moron are you that you look up sex in the urban dictionary?' Oh... that's not what... I swear I was going somewhere with this..."
 ];
 
 var response = phrases[Math.floor(Math.random() * phrases.length)];
